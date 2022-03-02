@@ -432,6 +432,8 @@ GraphicsConsoleControllerDriverStart (
 
   HorizontalResolution  = PcdGet32 (PcdVideoHorizontalResolution);
   VerticalResolution    = PcdGet32 (PcdVideoVerticalResolution);
+  HorizontalResolution  = 1024;
+  VerticalResolution    = 768;
 
   if (Private->GraphicsOutput != NULL) {
     //

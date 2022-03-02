@@ -790,7 +790,7 @@
   MdeModulePkg/Universal/DisplayEngineDxe/DisplayEngineDxe.inf
   #MdeModulePkg/Universal/MemoryTest/NullMemoryTestDxe/NullMemoryTestDxe.inf
 
-  #OvmfPkg/QemuVideoDxe/QemuVideoDxe.inf
+  OvmfPkg/QemuVideoDxe/QemuVideoDxe.inf
   #OvmfPkg/QemuRamfbDxe/QemuRamfbDxe.inf
   #OvmfPkg/VirtioGpuDxe/VirtioGpu.inf
 
